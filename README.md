@@ -12,7 +12,7 @@
 ### Projects descriptions
 1. MNIST:
   - Data - I used data from this [kaggle competition](https://www.kaggle.com/c/digit-recognizer). Images are represented as       recktangular data where each column contains pixel values between 1 and 255.
-  - Model - I used Nadam optimization (Adam optimizaion with Nesterov trick) and sequential CNN model wchich is represented in the image below. I created self-regularizng neural net (we don't need to use l1 or l2 regularizations) with batch normalization and Alphadropout layers (we can use Monte Carlo Dropout instead). 
+  - Model - I used Nadam optimization (Adam optimizaion with Nesterov trick) and sequential CNN model wchich is represented in the image below. I created self-regularizng neural net (we don't need to use l1 or l2 regularizations) with batch normalization and Alphadropout layers (we can use Monte Carlo Dropout instead) and one-cycle learning rate sheduling.
   - References:
     - [One cycle learning rate sheduling](https://homl.info/1cycle)
        <br/>
