@@ -2,7 +2,7 @@
 ## Table of contents
 1. [How to use this repo?](#How-to-use)
 2. [Full competitions names](#Full competitions names)
-3. [Projects descriptions](#Projects-descriptions:)
+3. [Projects descriptions](#Projects-descriptions)
 
 ### How to use this repo?
   - Every file is named by competition name on Kaggle and if you click on them you can find link to google colab    to see the solution in action.
