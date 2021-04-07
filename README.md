@@ -12,5 +12,5 @@
 ### Projects descriptions
 1. MNIST:
   - Data - I used data from this [kaggle competition](https://www.kaggle.com/c/digit-recognizer). Images are represented as       recktangular data where each column contains pixel values between 1 and 255.
-  - Model - f
+  - Model ![mnist_model](https://github.com/MichSteczko/Kaggle_competitions-/blob/main/images/mnist_model.png)
 
