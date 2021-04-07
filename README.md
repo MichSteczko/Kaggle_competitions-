@@ -1,7 +1,7 @@
 # Repo where you can find my solutions to solve Kaggle Competitons problems.
 ## Table of contents
-1. [How to use this repo?](#How-to-use)
-2. [Full competitions names](#Full competitions names)
+1. [How to use this repo?](#How-to-use-this-repo?)
+2. [Full competitions names](#Full-competitions-names)
 3. [Projects descriptions](#Projects-descriptions)
 
 ### How to use this repo?
