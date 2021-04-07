@@ -3,7 +3,7 @@
 1. [How to use this repo?](#How-to-use)
 2. [Full competitions names](#competitions-names)
 3. [Projects descriptions](#descriptions)
-4. [afdf](#afdf)
+4. [afdf](#chuj)
 ### How to use this repo?
   - Every file is named by competition name on Kaggle and if you click on them you can find link to google colab    to see the solution in action.
 ### Full competitions names:
